@@ -1,0 +1,5 @@
+
+Task detected: demo_task.txt
+Plan created for: demo_task.txt
+Plan created for: demo_task.txt
+Approved: APPROVED_demo_task.txt

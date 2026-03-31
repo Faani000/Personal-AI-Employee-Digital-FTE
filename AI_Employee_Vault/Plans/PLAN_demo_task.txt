@@ -1,0 +1,7 @@
+PLAN FOR TASK
+demo_task.txt
+
+Steps:
+1 Analyze request
+2 Prepare response
+3 Send for approval

@@ -1,0 +1,11 @@
+WEEKLY CEO REPORT
+
+Total activities:
+5
+
+Recent Logs:
+
+Task detected: demo_task.txt
+Plan created for: demo_task.txt
+Plan created for: demo_task.txt
+Approved: APPROVED_demo_task.txt
